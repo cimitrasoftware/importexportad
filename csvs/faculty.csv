@@ -1,0 +1,4 @@
+"DisplayName","DistinguishedName","Enabled","GivenName","Name","ObjectClass","ObjectGUID","SamAccountName","SID","Surname","UserPrincipalName"
+"Jane Teacher","CN=Jane Teacher,OU=FACULTY,OU=USERS,OU=KCC,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Jane","Jane Teacher","user","9f86562d-8a06-4a8c-803d-67888b7b7791","janeteacher","S-1-5-21-3260797174-3569655007-1560041723-1422","Teacher",
+,"CN=Joe Teacher,OU=FACULTY,OU=USERS,OU=KCC,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Joe","Joe Teacher","user","49f1b130-2b75-4d68-960e-fd473982977c","joeteacher","S-1-5-21-3260797174-3569655007-1560041723-1423","Teacher",
+"_TEMPLATE_FACULTY","CN=_TEMPLATE_USER_FACULTY,OU=FACULTY,OU=USERS,OU=KCC,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","False","_TEMPLATE_FACULTY","_TEMPLATE_USER_FACULTY","user","d0c04fbb-0c43-498d-aa27-f9a5440ba614","_TEMPLATE_FACULTY","S-1-5-21-3260797174-3569655007-1560041723-1266",,"_TEMPLATE_FACULTY@cimitrademo.com"

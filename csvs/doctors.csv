@@ -1,0 +1,3 @@
+"DisplayName","DistinguishedName","Enabled","GivenName","Name","ObjectClass","ObjectGUID","SamAccountName","SID","Surname","UserPrincipalName"
+,"CN=Russell Nelson,OU=DOCTORS,OU=USERS,OU=ACME MEDICAL,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Russell","Russell Nelson","user","8deb2e1e-6140-4294-b13e-624f2791ce44","russellnelson","S-1-5-21-3260797174-3569655007-1560041723-1178","Nelson",
+"Kel Kratzer","CN=Kel Kratzer,OU=DOCTORS,OU=USERS,OU=ACME MEDICAL,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Kel","Kel Kratzer","user","030db115-44a9-4b3e-be22-2a4981ea76f2","kelkratzer","S-1-5-21-3260797174-3569655007-1560041723-1179","Kratzer",

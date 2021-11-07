@@ -1,0 +1,5 @@
+"DisplayName","DistinguishedName","Enabled","GivenName","Name","ObjectClass","ObjectGUID","SamAccountName","SID","Surname","UserPrincipalName"
+,"CN=Niel Self,OU=NURSES,OU=USERS,OU=ACME MEDICAL,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Niel","Niel Self","user","3163066e-7b02-461a-9350-1e6b6467c953","nielself","S-1-5-21-3260797174-3569655007-1560041723-1180","Self",
+,"CN=Jane Admin,OU=ADMIN STAFF,OU=USERS,OU=ACME MEDICAL,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Jane","Jane Admin","user","7a45b6bd-797d-4ef2-90cb-8e25aa2c2aa3","janeadmin","S-1-5-21-3260797174-3569655007-1560041723-1202","Admin",
+,"CN=Russell Nelson,OU=DOCTORS,OU=USERS,OU=ACME MEDICAL,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Russell","Russell Nelson","user","8deb2e1e-6140-4294-b13e-624f2791ce44","russellnelson","S-1-5-21-3260797174-3569655007-1560041723-1178","Nelson",
+"Kel Kratzer","CN=Kel Kratzer,OU=DOCTORS,OU=USERS,OU=ACME MEDICAL,OU=DEMOSYSTEM,DC=cimitrademo,DC=com","True","Kel","Kel Kratzer","user","030db115-44a9-4b3e-be22-2a4981ea76f2","kelkratzer","S-1-5-21-3260797174-3569655007-1560041723-1179","Kratzer",
